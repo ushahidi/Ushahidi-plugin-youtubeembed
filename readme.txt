@@ -4,7 +4,7 @@ website: http://www.ushahidi.com
 description: Find any youtube links in the report description and convert them to YouTube Embed Code
 version: 0.5
 requires: 2.0
-tested up to: 2.0
+tested up to: 2.3
 author: David Kobia
 author website: http://www.dkfactor.com
 
